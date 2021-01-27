@@ -7,7 +7,7 @@ Finance: Stock Market Analysis
 3. Vandana Sukhija
 
 ### Objective
-To forecast the closing prices of stocks in the e-commerce sector by comparing different traditional statistical methods and machine learning techniques.
+To forecast the closing prices of stocks in the e-commerce sector by comparing different statistical methods and machine learning techniques.
 
 ### Software
 R
