@@ -15,4 +15,4 @@ R
 ### References
 1. Forecasting: Principles and Practice; Rob J Hyndman and George Athanasopoulos
    https://otexts.com/fpp3/
-
+2. Practical Time Series Analysis: Prediction with Statistics and Machine Learning; Aileen Nielsen: Chapter 14 - Financial Applications
